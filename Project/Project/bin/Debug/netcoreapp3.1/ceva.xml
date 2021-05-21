@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfTeacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Teacher>
+    <Name>sadasd</Name>
+    <Adress>asdsads</Adress>
+    <PhoneNumber>1234567890</PhoneNumber>
+    <Email>asdsd@asd.sa</Email>
+  </Teacher>
+  <Teacher>
+    <Name>effwer</Name>
+    <Adress>efsd21</Adress>
+    <PhoneNumber>1231231212</PhoneNumber>
+    <Email>123123@3213</Email>
+  </Teacher>
+  <Teacher>
+    <Name>dwdad</Name>
+    <Adress>sadadasd</Adress>
+    <PhoneNumber>0</PhoneNumber>
+    <Email>2132@dsad</Email>
+  </Teacher>
+</ArrayOfTeacher>
