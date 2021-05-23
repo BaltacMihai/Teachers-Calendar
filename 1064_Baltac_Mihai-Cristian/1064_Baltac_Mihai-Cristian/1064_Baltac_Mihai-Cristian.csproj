@@ -159,13 +159,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\AdministrationAplicationContext.cs" />
+    <Compile Include="Classes\Room.cs" />
     <Compile Include="Classes\Subject.cs" />
     <Compile Include="Classes\Teacher.cs" />
+    <Compile Include="EditFormRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditFormRoom.Designer.cs">
+      <DependentUpon>EditFormRoom.cs</DependentUpon>
+    </Compile>
     <Compile Include="EditFormTeacher.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditFormTeacher.Designer.cs">
       <DependentUpon>EditFormTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\20210522122137_abc.cs" />
     <Compile Include="Migrations\20210522122137_abc.designer.cs">
@@ -176,6 +189,12 @@
       <DependentUpon>20210522153404_def.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\AdministrationAplicationContextModelSnapshot.cs" />
+    <Compile Include="RoomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RoomForm.Designer.cs">
+      <DependentUpon>RoomForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="SubjectForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -190,8 +209,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="EditFormRoom.resx">
+      <DependentUpon>EditFormRoom.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="EditFormTeacher.resx">
       <DependentUpon>EditFormTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -202,6 +227,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="RoomForm.resx">
+      <DependentUpon>RoomForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SubjectForm.resx">
       <DependentUpon>SubjectForm.cs</DependentUpon>
     </EmbeddedResource>

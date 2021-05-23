@@ -93,7 +93,7 @@ namespace _1064_Baltac_Mihai_Cristian
             this.groupBox1.Size = new System.Drawing.Size(362, 343);
             this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Add Teacher";
+            this.groupBox1.Text = "Edit Teacher";
             // 
             // tbSubject
             // 

@@ -16,7 +16,7 @@ namespace _1064_Baltac_Mihai_Cristian
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SubjectForm());
+            Application.Run(new Menu());
         }
     }
 }

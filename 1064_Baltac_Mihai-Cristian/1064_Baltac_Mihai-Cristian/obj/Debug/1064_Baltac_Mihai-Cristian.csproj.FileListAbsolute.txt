@@ -76,4 +76,7 @@ C:\Users\Dan\source\repos\1064_Baltac_Mihai-Cristian\1064_Baltac_Mihai-Cristian\
 C:\Users\Dan\source\repos\1064_Baltac_Mihai-Cristian\1064_Baltac_Mihai-Cristian\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Dan\source\repos\1064_Baltac_Mihai-Cristian\1064_Baltac_Mihai-Cristian\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Dan\source\repos\1064_Baltac_Mihai-Cristian\1064_Baltac_Mihai-Cristian\obj\Debug\1064_Baltac_Mihai-Cristian.csproj.CopyComplete
+C:\Users\Dan\source\repos\1064_Baltac_Mihai-Cristian\1064_Baltac_Mihai-Cristian\obj\Debug\_1064_Baltac_Mihai_Cristian.Menu.resources
 C:\Users\Dan\source\repos\1064_Baltac_Mihai-Cristian\1064_Baltac_Mihai-Cristian\obj\Debug\1064_Baltac_Mihai-Cristian.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\1064_Baltac_Mihai-Cristian\1064_Baltac_Mihai-Cristian\obj\Debug\_1064_Baltac_Mihai_Cristian.EditFormRoom.resources
+C:\Users\Dan\source\repos\1064_Baltac_Mihai-Cristian\1064_Baltac_Mihai-Cristian\obj\Debug\_1064_Baltac_Mihai_Cristian.RoomForm.resources
