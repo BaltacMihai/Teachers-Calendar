@@ -22,8 +22,16 @@ namespace _1064_Baltac_Mihai_Cristian
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            int.TryParse(tb)
-            room.Number
+            int.TryParse(tbNumber.Text, out int Number1);
+            room.Number = Number1;
+	    room.Date = tbDate.Text;
+room.Type = tbType.Text;
+room.Hour = tbHour.Text;
+room.teacher.Name = tbTeacher.Text;
+room.subject.Name = tbSubject.Text;
+
+this.Close();
+
         }
 
         private void btnDelete_Click(object sender, EventArgs e)
